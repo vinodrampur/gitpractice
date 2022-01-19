@@ -5,3 +5,4 @@ in this whenever the body of the message changes it
 will create one version.
 
 git is also called source code management tool.
+in the git we have three areas working area, staging area, git local repo

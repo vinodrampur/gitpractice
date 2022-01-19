@@ -5,4 +5,7 @@ in this whenever the body of the message changes it
 will create one version.
 
 git is also called source code management tool.
+<<<<<<< HEAD
 in the git we have three areas working area, staging area, git local repo
+=======
+>>>>>>> 0f434f8... one file is adding to local repo

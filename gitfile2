@@ -1,0 +1,5 @@
+this file is created in the master branch
+git log -> it will show the history of the git repo
+git log -2 -> it will show the latest commits on files
+git log -2 filename -> it will show the latst commits onf perticular fields.
+
